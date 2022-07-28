@@ -17,7 +17,7 @@ This application serves as a simple planner with which to organize the user's da
 
 ## Installation
 
-This application is deployed to github pages at the URL: 
+This application is deployed to github pages at the URL: https://ballardcryan.github.io/05-Third-Party-APIs-02-Homework/
 
 ## Usage
 
